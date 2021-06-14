@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/thiago-silva-383049192"><img align="left" src="https://github.com/leticiasvalle/leticiasvalle/blob/main/icones/linkedin.png?raw=true"/></a></br></br>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiasvalle&count_private=true&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasvalle&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thsilvar&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compact" />
 </p>
 
