@@ -5,7 +5,7 @@
 **thsilvar/thsilvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently looking for a job in development area
+- 🔭 I currently work with Oracle Integration Cloud
 - 🌱 I am currently learning and developing applications in React
 - ⚡ Fun fact: I like challenges
 
