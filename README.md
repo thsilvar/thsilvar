@@ -2,12 +2,12 @@
 ###### But you can call me Thiago!
 
 <!--
-**leticiasvalle/leticiasvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thsilvar/thsilvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 I’m currently looking for a job in development area
-- 🌱 I’m currently learning Front-End development
-- ⚡ Fun fact: I'm a dog person 🐕
+- 🌱 I am currently learning and developing applications in React
+- ⚡ Fun fact: I like challenges
 
 #### Other places you can find me:
 
