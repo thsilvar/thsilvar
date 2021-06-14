@@ -15,6 +15,6 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thsilvar&count_private=true&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compacts" />
 </p>
 
