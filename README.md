@@ -7,6 +7,7 @@
 ### Languages & Tools 🛠
 
 ![T](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
+![T](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -19,12 +20,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+![T](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle)&nbsp;
 
   
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thsilvar&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&count_private=true&layout=compact&langs_count=8"/>
 </a>
 </p>
 
