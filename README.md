@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### I'm a 🇫🇷 Software Developer living in 🇧🇷 and working at [Zup Innovation](https://www.zup.com.br/).
+### I am a systems analyst and typescript student
 
 
 
 ### Languages & Tools 🛠
 
-
+![T](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -33,7 +33,7 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/thsilvar/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thsilvar/"><img src="https://img.shields.io/badge/-thsilvar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </a>
 
 </p>
