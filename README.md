@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thsilvar&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&count_private=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&count_private=true&layout=compact&langs_count=20"/>
 </a>
 </p>
 
