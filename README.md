@@ -1,20 +1,39 @@
-### Hi, I'm Thiago! 👋
-###### But you can call me Thiago!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-<!--
-**thsilvar/thsilvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### I'm a 🇫🇷 Software Developer living in 🇧🇷 and working at [Zup Innovation](https://www.zup.com.br/).
 
-- 🔭 I currently work with Oracle Integration Cloud
-- 🌱 I am currently learning and developing applications in React
-- ⚡ Fun fact: I like challenges
 
-#### Other places you can find me:
 
-<a href="https://www.linkedin.com/in/thiago-silva-383049192"><img align="left" src="https://github.com/leticiasvalle/leticiasvalle/blob/main/icones/linkedin.png?raw=true"/></a></br></br>
+### Languages & Tools 🛠
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thsilvar&count_private=true&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compacts" />
+
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+
+  
+<p align="left">
+<a href="https://github.com/GuillaumeFalourd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thsilvar&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compact&langs_count=8"/>
+</a>
 </p>
 
+
+
+### Let's connect ? 🤝
+
+<p align="left">
+<a href="https://www.linkedin.com/in/thsilvar/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</a>
+
+</p>
