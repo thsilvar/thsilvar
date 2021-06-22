@@ -26,7 +26,7 @@
 <p align="left">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thsilvar&count_private=true&show_icons=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&count_private=true&layout=compact&langs_count=20"/>
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compact" />
  
 </a>
 </p>
