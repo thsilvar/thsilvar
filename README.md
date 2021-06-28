@@ -21,6 +21,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 ![T](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle)&nbsp;
+![T](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
 
   
 <p align="left">
