@@ -4,7 +4,7 @@
 
 
 
-### Languages & Tools 🛠
+### Languages & Tools 🛠. 
 
 ![T](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![T](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
