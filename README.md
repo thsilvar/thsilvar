@@ -1,44 +1,61 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Welcome to my GitHub!
+</h1>
 
-### I am a systems analyst and typescript student
-
-
-
-### Languages & Tools 🛠. 
-
-![T](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
-![T](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
-![T](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle)&nbsp;
-![T](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
-
-  
-<p align="left">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thsilvar&count_private=true&show_icons=true"/>
-   <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&count_private=true&layout=compact" />
- 
- 
-</a>
+<p align="center">
+  <b>Systems Analyst | Backend Developer | Typescript & Java Enthusiast 🚀</b>
 </p>
 
+---
 
+## 👨‍💻 About Me
 
-### Let's connect ? 🤝
+- 🎯 Focused on Backend Development using **Java**, **Spring Boot**, and **TypeScript**.
+- 📚 Currently expanding my knowledge in **Angular**, **Docker** and **Cloud technologies**.
+- 🛠 Passionate about creating scalable and secure applications.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/thsilvar/"><img src="https://img.shields.io/badge/-thsilvar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</a>
+---
 
+## 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/-OracleDB-05122A?style=flat&logo=oracle" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=jetbrains" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thsilvar&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsilvar&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+- [🔗 Project One](https://github.com/thsilvar/project-one) – Description
+- [🔗 Project Two](https://github.com/thsilvar/project-two) – Description
+
+---
+
+## 📬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thsilvar/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
