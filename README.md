@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 Focused on Backend Development using **Java**, **Spring Boot**, and **TypeScript**.
+- 🎯 Focused on Backend Development using **Java**, **Spring Boot**, **Python**, and **TypeScript**.
 - 📚 Currently expanding my knowledge in **Angular**, **Docker** and **Cloud technologies**.
 - 🛠 Passionate about creating scalable and secure applications.
 
@@ -44,11 +44,6 @@
 </p>
 
 ---
-
-## 🌟 Featured Projects
-
-- [🔗 Project One](https://github.com/thsilvar/project-one) – Description
-- [🔗 Project Two](https://github.com/thsilvar/project-two) – Description
 
 ---
 
